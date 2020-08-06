@@ -7,7 +7,6 @@
 
 ![Image](https://media1.tenor.com/images/eaae9bb1757545cfcd2c64e321b06a68/tenor.gif?itemid=15160023)
 
-
 <!--
 **pushkar100/pushkar100** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
