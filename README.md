@@ -5,7 +5,7 @@
 - 💬 Ask me about ... my contribution to webpack recently (/* webpackExports: \["a"\] */ https://github.com/webpack/webpack/pull/10964)
 - ⚡ Fun fact: ... below is a stealthily captured image of me. Apparently, this is how I code
 
-![Image](https://media1.tenor.com/images/eaae9bb1757545cfcd2c64e321b06a68/tenor.gif?itemid=15160023)
+![Image](./monkey-coding-gif.gif)
 
 <!--
 **pushkar100/pushkar100** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
