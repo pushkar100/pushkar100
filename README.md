@@ -1,11 +1,12 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on ... Setting up course repositories for my upcoming tutorials (Clean code in JS and React Hooks)
-- 🌱 I’m currently learning ... Software architecure, patterns, React hooks, and Micro-frontends
-- 💬 Ask me about ... my contribution to webpack recently (/* webpackExports: \["a"\] */ https://github.com/webpack/webpack/pull/10964)
-- ⚡ Fun fact: ... below is a stealthily captured image of me. Apparently, this is how I code
+- 🔭 I’m currently working on: Setting up course repositories for my upcoming tutorials (Clean code in JS and React Hooks)
+- 🌱 I’m currently learning: Software architecure, patterns, React hooks, and Micro-frontends
+- 💬 Ask me about: My contribution to webpack recently 😬
+  - (/* webpackExports: \["a"\] */ https://github.com/webpack/webpack/pull/10964)
+- ⚡ Fun fact:Below is a stealthily captured image of me. Apparently, this is how I code 🤷
 
-![Image](./monkey-coding-gif.gif)
+![Image](https://github.com/pushkar100/pushkar100/blob/master/monkey-coding-gif.gif)
 
 <!--
 **pushkar100/pushkar100** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
