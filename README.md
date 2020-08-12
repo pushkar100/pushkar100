@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning: Software architecure, patterns, React hooks, and Micro-frontends
 - 💬 Ask me about: My contribution to webpack recently 😬
   - (/* webpackExports: \["a"\] */ https://github.com/webpack/webpack/pull/10964)
-- ⚡ Fun fact:Below is a stealthily captured image of me. Apparently, this is how I code 🤷
+- ⚡ Fun fact: Below is a stealthily captured shot of me. Apparently, this is how I code 🤷
 
 ![Image](https://github.com/pushkar100/pushkar100/blob/master/monkey-coding-gif.gif)
 
