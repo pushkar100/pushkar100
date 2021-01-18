@@ -3,10 +3,7 @@
 - 🔭 I’m currently working on: Setting up course repositories for my upcoming tutorials (Clean code in JS and React Hooks)
 - 🌱 I’m currently learning: Software architecure, patterns, React hooks, and Micro-frontends
 - 💬 Ask me about: My contribution to webpack recently 😬
-  - (/* webpackExports: \["a"\] */ https://github.com/webpack/webpack/pull/10964)
-- ⚡ Fun fact: Below is a stealthily captured shot of me. Apparently, this is how I code 🤷
-
-![Image](https://github.com/pushkar100/pushkar100/blob/master/monkey-coding-gif.gif)
+  - (/* webpackExports: \["a"\] */ https://github.com/webpack/webpack/pull/10964)=
 
 <!--
 **pushkar100/pushkar100** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
