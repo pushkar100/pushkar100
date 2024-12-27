@@ -1,10 +1,3 @@
-### Hi there 👋
-
-- 🔭 I’m currently working on: Setting up course repositories for my upcoming tutorials (Clean code in JS and React Hooks)
-- 🌱 I’m currently learning: Software architecure, patterns, React hooks, and Micro-frontends
-- 💬 Ask me about: My contribution to webpack recently 😬
-  - (/* webpackExports: \["a"\] */ https://github.com/webpack/webpack/pull/10964)=
-
 <!--
 **pushkar100/pushkar100** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
